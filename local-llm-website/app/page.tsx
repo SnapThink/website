@@ -45,10 +45,12 @@ export default function HomePage() {
                 </p>
               </div>
               <div className="space-x-4">
+                <a href="https://drive.google.com/file/d/1V8xnsDMrsTLAOCaQR_6rBqKc8MdqT3GQ/view?usp=drive_link" target="_blank">
                 <Button size="lg">
-                  Get Started
+                  Download exe
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
+                </a>
                 <Button variant="outline" size="lg">
                   View Demo
                 </Button>
